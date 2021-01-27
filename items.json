@@ -1,0 +1,28 @@
+{
+    "1d67-4d98-a584": {
+        "fields": {
+            "0de6-45be-a6f1": {
+                "id": "0de6-45be-a6f1", 
+                "name": "name", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "32f4-45c3-a409": {
+                "id": "32f4-45c3-a409", 
+                "name": "price", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "5b9c-4901-80eb": {
+                "id": "5b9c-4901-80eb", 
+                "name": "desc", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }
+        }, 
+        "name": "Nathome"
+    }
+}
